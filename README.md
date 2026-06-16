@@ -31,3 +31,6 @@
 
 ## Intento zona inversa
 <img width="525" height="48" alt="image" src="https://github.com/user-attachments/assets/030142e6-7921-43e6-98cb-487723def5d8" />
+
+# Ejercicio 4
+Mi equipo no tiene suficiente espacio ni para descargar la ISO, borré las maquinas virtuales antiguas pero sigue igual (solo tenia 2 ubuntu server, que eso no pesa mucho)
