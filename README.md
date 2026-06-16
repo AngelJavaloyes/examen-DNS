@@ -11,7 +11,7 @@
 <img width="616" height="451" alt="image" src="https://github.com/user-attachments/assets/06d0a9e4-d66b-4e1c-8702-a9a6e32391a6" />
 
 ## Prueba zona directa
-<img width="616" height="451" alt="image" src="https://github.com/user-attachments/assets/18ebd539-6b31-47bd-997a-43d876f2ea82" />
+<img width="585" height="131" alt="image" src="https://github.com/user-attachments/assets/edb2842a-e6de-4961-bdd3-c567790b5644" />
 
 ## Intento zona inversa
 <img width="545" height="81" alt="image" src="https://github.com/user-attachments/assets/069ff22c-1850-415f-b2b8-7a8bbedad0a6" />
