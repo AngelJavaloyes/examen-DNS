@@ -15,3 +15,13 @@
 
 ## Intento zona inversa
 <img width="545" height="81" alt="image" src="https://github.com/user-attachments/assets/069ff22c-1850-415f-b2b8-7a8bbedad0a6" />
+
+# Ejercicio 2
+## named.conf.local Esclavo
+<img width="622" height="364" alt="image" src="https://github.com/user-attachments/assets/91dbab5b-1a85-47c1-bd8f-c335053b7214" />
+
+## Prueba zona directa
+<img width="594" height="135" alt="image" src="https://github.com/user-attachments/assets/5fe78333-f12e-40d8-9d85-876ab188c0e2" />
+
+## Intento zona inversa
+<img width="535" height="48" alt="image" src="https://github.com/user-attachments/assets/168e16e8-676f-4bc6-881b-6f320817511d" />
